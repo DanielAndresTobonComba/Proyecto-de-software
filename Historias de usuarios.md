@@ -1,5 +1,5 @@
 # Historias de Usuario Actualizadas
-**Módulo de información corporativa y cliente**
+## Módulo de información corporativa y cliente
 - Como cliente, quiero registrarme en la plataforma para tener un perfil personal con mis datos basicos.
 
 - Como cliente, quiero iniciar sesión con mi correo y contraseña para acceder a mi cuenta de manera segura.
@@ -20,10 +20,10 @@
 
 - Como cliente, quiero consultar la lista de clientes o aliados que trabajan con la empresa para sentir mayor respaldo y confianza.
 
-**Módulo de Administrador**
+## Módulo de Administrador
 - Como administrador, quiero gestionar los productos disponibles en el catálogo para asegurar que los clientes siempre vean información actualizada.
 
-**Módulo de Micro aliado “surtitiendas“ (pedidos internos a Alquería)**
+## Módulo de Micro aliado “surtitiendas“ (pedidos internos a Alquería)
 - Como micro aliado, quiero tener un módulo para realizar pedidos directamente a Alquería para asegurar el abastecimiento de productos.
 
 - Como micro aliado, quiero visualizar la lista de productos disponibles en Alquería con sus precios y disponibilidad para planear mis pedidos.
