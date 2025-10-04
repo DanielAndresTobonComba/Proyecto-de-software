@@ -21,7 +21,7 @@ IC-> Información corporativa
 
 
 
-# 📌 Requisitos Funcionales – Información Corporativa (IC)
+# Requisitos Funcionales – Información Corporativa (IC)
 
 | ID        | Tipo       | Descripción                                                                 | Prioridad | Criterio de aceptación                                                 |
 |-----------|------------|-----------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ IC-> Información corporativa
 
 ---
 
-# 📌 Requisitos Funcionales – Pedidos del Microaliado (PA)
+# Requisitos Funcionales – Pedidos del Microaliado (PA)
 
 | ID        | Tipo       | Descripción                                                                 | Prioridad | Criterio de aceptación                                                 |
 |-----------|------------|-----------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|
@@ -43,7 +43,7 @@ IC-> Información corporativa
 
 ---
 
-# 📌 Requisitos Funcionales – Plataforma Central (PC)
+# Requisitos Funcionales – Plataforma Central (PC)
 
 | ID        | Tipo       | Descripción                                                                 | Prioridad | Criterio de aceptación                                                 |
 |-----------|------------|-----------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ IC-> Información corporativa
 
 ---
 
-# 📌 Requisitos No Funcionales
+# Requisitos No Funcionales
 
 | ID         | Tipo        | Descripción                                                                 | Prioridad | Criterio de aceptación                                                 |
 |------------|-------------|-----------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|
